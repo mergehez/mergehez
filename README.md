@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/mergehez">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mergehez&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mergehez&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" />
   </a>
   <a href="https://github.com/mergehez">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mergehez&layout=compact" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mergehez&layout=compact&theme=cobalt" />
   </a>
 </div>
 ---
