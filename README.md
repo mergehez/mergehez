@@ -1,8 +1,10 @@
 ### Hi / Silav 👋
 
 <div>
-  <a href="https://github.com/guimap">
+  <a href="https://github.com/mergehez">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mergehez&show_icons=true&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/mergehez">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mergehez&layout=compact"/>
   </a>
 </div>
