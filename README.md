@@ -6,23 +6,23 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content:center"><br>
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img title="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img height="30" width="30" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" style="border-radius:50%" />
+  <img title="php" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img title="mysql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="laravel" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img title="alpine js" height="30" width="30" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" style="border-radius:50%" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img title="html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img title="css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="30" width="30" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_big_with_border.png" />
-  <img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/xamarin-282427.png" />
+  <img title="c#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img title="dotnetcore" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img title="blazor" height="30" width="30" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_big_with_border.png" />
+  <img title="xamarin forms" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/xamarin-282427.png" />
 </div>
   
   
