@@ -6,19 +6,23 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content:center"><br>
+  <img title="dart" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img title="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     &nbsp;
   <img title="android (java)" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img title="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img title="html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="php" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img title="mysql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img title="laravel" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img title="alpine js" height="30" width="30" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" style="border-radius:50%" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img title="html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img title="javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img title="alpine js" height="30" width="30" src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" style="border-radius:50%" />
+  <img title="vue" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img title="css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img title="tailwind css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img title="bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img title="c#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
